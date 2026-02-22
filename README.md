@@ -191,3 +191,26 @@ A structured and well-organized collection of modern development badges with off
 - Vite docs: [https://vite.dev/](https://vite.dev/)
 
 ---
+
+## Quick repo files
+
+### `.env.example`
+
+```env
+# .env.example
+CONNECTION_STR=postgres://postgres:postgres@localhost:5432/appdb
+PORT=5000
+JWT_SECRET=replace_with_a_strong_secret
+NODE_ENV=development
+```
+
+---
+
+## Notes
+
+- Paste this block at the top of your `README.md` to show badges and quick links.
+- Edit the `Project Title` and add a short project description, installation, usage, and contribution sections below as needed.
+
+---
+
+<!-- End of copy-paste-ready badges & docs -->
