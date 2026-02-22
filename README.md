@@ -214,11 +214,11 @@ NODE_ENV=development
 
 ### Contact & Maintainer
 
-- **_Project:_** _badges-docs_
+- **_Project:_** _dev-badges-docs-hub_
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
 - **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 ---
 
