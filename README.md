@@ -1,6 +1,6 @@
 # README Badges & Documentation Links
 
-A structured and well-organized collection of modern development badges with official documentation links across frontend, backend, databases, DevOps, cloud infrastructure, testing, CI/CD, and observability — created as a developer reference toolkit for building scalable, production-ready applications.
+A structured and well-organized collection of modern development badges with official documentation links across frontend, backend, databases, DevOps, cloud infrastructure, testing, CI/CD, and observability - created as a developer reference toolkit for building scalable, production-ready applications.
 
 <!-- MIT License -->
 
@@ -126,68 +126,7 @@ A structured and well-organized collection of modern development badges with off
 
 ---
 
-## About
-
-A short paragraph that explains what this repo is for, who it's for, and what it demonstrates. Replace with project-specific details.
-
-## Features
-
-- Clean, responsive frontend (Tailwind / Bootstrap)
-- Accessible and mobile-first
-- Theming (light / dark)
-- Example auth / demo data (if applicable)
-
-## Getting started
-
-### Prerequisites
-
-- Node.js (recommended LTS)
-- npm or yarn
-
-### Install
-
-```bash
-# clone repo
-git clone <your-repo-url>
-cd <project-folder>
-
-# install
-npm install
-# or
-# yarn install
-```
-
-### Run (development)
-
-```bash
-npm run dev
-# or
-# yarn dev
-```
-
-### Build
-
-```bash
-npm run build
-# or
-# yarn build
-```
-
-## How to use
-
-Short instructions for how to run and test the app locally, any environment variables to set, or where demo credentials live.
-
-## Contributing
-
-Contributions welcome — please open issues and PRs. Add a CONTRIBUTING.md if you expect external contributors.
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
-
----
-
-## Docs & links (plain)
+## Plain Docs & Links
 
 - HTML (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - CSS (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -252,5 +191,3 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 - Vite docs: [https://vite.dev/](https://vite.dev/)
 
 ---
-
-_If you want, I can adapt this README to a specific project by inserting the project name, repository URL, run scripts, environment-variable examples, demo credentials, or a short usage guide._
