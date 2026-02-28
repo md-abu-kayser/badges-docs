@@ -194,7 +194,7 @@ A structured and well-organized collection of modern development badges with off
 - Mailgun docs: [https://www.mailgun.com/](https://www.mailgun.com/)
 - Cloudflare docs: [https://www.cloudflare.com/](https://www.cloudflare.com/)
 - dotenv docs: [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
-- Google genai docs: https://developers.google.com/
+- Google genai docs: [https://developers.google.com/](https://developers.google.com/workspace/docs)
 - ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
 - Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
 - Vite docs: [https://vite.dev/](https://vite.dev/)
