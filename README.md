@@ -77,7 +77,7 @@ A structured and well-organized collection of modern development badges with off
 
 [![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
 [![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
-[![zod](https://img.shields.io/badge/zod-3.0.0-lightgrey)](https://github.com/colinhacks/zod)
+[![zod](https://img.shields.io/badge/zod-3.0.0-lightgrey)](https://zod.dev/)
 [![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
 
 <!-- API & Docs -->
