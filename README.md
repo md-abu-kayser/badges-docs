@@ -56,6 +56,10 @@ A structured and well-organized collection of modern development badges with off
 
 [![morgan](https://img.shields.io/badge/morgan-npm-FF6B6B?\&logoColor=white)](https://www.npmjs.com/package/morgan)
 
+<!-- helmet / security headers -->
+
+[![helmet](https://img.shields.io/badge/helmet-npm-0F172A?logo=shield\&logoColor=white)](https://www.npmjs.com/package/helmet)
+
 <!-- Databases -->
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -179,6 +183,7 @@ A structured and well-organized collection of modern development badges with off
 - nodemon site: https://nodemon.io/
 - nodemon (npm): https://www.npmjs.com/package/nodemon
 - morgan (npm / docs): https://www.npmjs.com/package/morgan
+- helmet (npm / docs): https://www.npmjs.com/package/helmet
 - PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
 - MySQL docs: [https://dev.mysql.com/](https://dev.mysql.com/)
 - MongoDB docs: [https://www.mongodb.com/](https://www.mongodb.com/)
