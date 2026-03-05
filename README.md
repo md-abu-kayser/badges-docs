@@ -12,7 +12,7 @@ A structured and well-organized collection of modern development badges with off
 
 <!-- Project Issues -->
 
-<!-- [![Issues](https://img.shields.io/github/issues/md-abu-kayser/my-project-name)](https://github.com/md-abu-kayser/my-projectname/issues) -->
+<!-- [![Issues](https://img.shields.io/github/issues/md-abu-kayser/your-project-name)](https://github.com/md-abu-kayser/your-project-name/issues) -->
 
 <!-- HTML & CSS -->
 
