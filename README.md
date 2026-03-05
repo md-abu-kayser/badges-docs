@@ -10,6 +10,10 @@ A structured and well-organized collection of modern development badges with off
 
 <!-- [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/your-project-name/) -->
 
+<!-- Project Issues -->
+
+<!-- [![Issues](https://img.shields.io/github/issues/md-abu-kayser/my-project-name)](https://github.com/md-abu-kayser/my-projectname/issues) -->
+
 <!-- HTML & CSS -->
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
