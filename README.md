@@ -8,11 +8,11 @@ A structured and well-organized collection of modern development badges with off
 
 <!-- Demo Live Link -->
 
-<!-- [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/your-project-name/) -->
+[![Demo](https://img.shields.io/badge/profile-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
 
-<!-- Project Issues -->
+<!-- Badges Issues -->
 
-<!-- [![Issues](https://img.shields.io/github/issues/md-abu-kayser/your-project-name)](https://github.com/md-abu-kayser/your-project-name/issues) -->
+[![Issues](https://img.shields.io/github/issues/md-abu-kayser/learned-dev-badges)](https://github.com/md-abu-kayser/learned-dev-badges/issues)
 
 <!-- HTML & CSS -->
 
